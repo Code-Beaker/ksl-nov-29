@@ -10,7 +10,7 @@ Here are the hosting and storage for thos website.
 
 - Netlify: [Netlify/ksl-app]()
 
-> [!NOTE]
+> [!ALERT]
 > Do not edit without permission.
 
 &copy; 2023 Tharun Raj, all rights reserved.
