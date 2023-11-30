@@ -19,6 +19,21 @@
   background: white;
 }
 
+.nav-btn {
+  padding: 0.75rem 1.5rem;
+  display: block;
+  background: black;
+  color: white;
+  text-decoration: none;
+  border-radius: 5rem;
+  font-size: 1.135rem;
+  font-weight: 500;
+}
+
+.nav-btn:hover {
+  opacity: 0.85;
+}
+
 .nav-logo {
   font-size: 2rem;
   font-weight: bolder;
@@ -104,16 +119,17 @@
   padding: 0.75rem 1.75rem;
   background: darkcyan;
   color: white;
-  font-weight: 600;
+  font-weight: 500;
   font-size: 1.125rem;
   text-decoration: none;
   display: block;
-  border-radius: 0.5rem;
+  border-radius: 5rem;
   border: none;
 }
 
 .btn:hover {
   opacity: 0.8;
+  scale: 1.025;
 }
 
 .img-flex {
